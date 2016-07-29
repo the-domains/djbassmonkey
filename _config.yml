@@ -1,16 +1,16 @@
-typography_spectrum: 0.4860365
+typography_spectrum: 0.6191053206566721
 color:
-  saturation: 0.6772288
-  brandStrength: 0.8984962
-  rhythmicContrast: 0.6095597
+  saturation: 0.16188377072103322
+  brandStrength: 0.3097712134476751
+  rhythmicContrast: 0.7877048403024673
   brandColors:
-    - '#1F0000'
-    - '#C38B3E'
-    - '#DBA150'
-    - '#702605'
-    - '#A26718'
-  lightness: 0.7588614
-layout_spectrum: 0.7051557
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  lightness: 0.29956482420675457
+layout_spectrum: 0.10780276916921139
 name: 'djbassmonkey '
 collections:
   - index:
