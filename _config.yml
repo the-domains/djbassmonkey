@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.4860365
 color:
   saturation: 0.6772288
@@ -24,4 +12,17 @@ color:
   lightness: 0.7588614
 layout_spectrum: 0.7051557
 name: 'djbassmonkey '
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 title: Are you not entertained?
+description: 'Do a little dance, make a little love. Get down tonight!'
